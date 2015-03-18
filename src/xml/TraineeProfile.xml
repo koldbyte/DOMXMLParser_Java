@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://www.example.org/TraineeProfileSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/TraineeProfileSchema TraineeProfileSchema.xsd ">
+  <Personal>
+    <Name>Bhaskar Divya</Name>
+    <ContactNumber>9953955914</ContactNumber>
+    <CurrentAddress>
+      <HouseNumber>857</HouseNumber>
+      <Street>Pocket-E, Sector 21</Street>
+      <City>Gurgaon</City>
+    </CurrentAddress>
+    <PermanentAddress>
+      <HouseNumber>857</HouseNumber>
+      <Street>Pocket-E, Sector 21</Street>
+      <City>Gurgaon</City>
+    </PermanentAddress>
+  </Personal>
+  <Training>
+    <Stream>Java</Stream>
+    <DateOfJoining>2015-01-05</DateOfJoining>
+    <TotalScore>100</TotalScore>
+  </Training>
+</Profile>
